@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I love to travel
 ### Connect with me:
 
-[facebook]: https://www.facebook.com/tranquocviet226
+Facebook: https://www.facebook.com/tranquocviet226
