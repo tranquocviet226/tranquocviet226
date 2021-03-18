@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-### Hi there, I’m Jobin 👋
+### Hi there, I’m Viet 👋
 ## I’m a Devops, and System Administrator!
 - 🔭 I’m currently working on a nothing
 - 🌱 I’m currently learning everything 🤣
@@ -9,4 +6,5 @@
 - 🥅 2021 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
 ### Connect with me:
-[facebook]: https://www.facebook.com/tranquocviet226
+
+facebook: https://www.facebook.com/tranquocviet226
