@@ -1,5 +1,5 @@
 <p align="center">
-  <img src='./wolf.jpeg' width='100%"'>
+  <img src='https://scontent.fdad3-2.fna.fbcdn.net/v/t1.6435-9/85082174_1242776175911116_7628715383532290048_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=e3f864&_nc_ohc=_EXYnDG_baAAX-Bn6jt&_nc_ht=scontent.fdad3-2.fna&oh=894b06e75faecad73c843918ed622ca2&oe=608B3755' width='100%"'>
 </p>
 
 ## A mobile developer (Android, ReactNative) <br> Currently learning Flutter and working as a ReactNative developer 
