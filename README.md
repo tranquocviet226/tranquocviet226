@@ -16,4 +16,26 @@
 [![NodeJS](https://img.shields.io/badge/nodejs-brightgreen?&style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Swift](https://img.shields.io/badge/swift-orange?&style=for-the-badge&logo=swift&logoColor=white)]()
 
+[Latest Post 👉](https://waylonwalker.com/latest)
+
+<details>
+ <summary><strong>other favorite posts</strong></summary>
+ <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
+ 
+</details>
+
+<!--
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
+
+<a href='https://twitter.com/natterstefan'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/natterstefan'>
+    Stefan Natter 🇦🇹👋🏻
+</a>
+
+I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️ | 📧 https://t.co/Jpwh9TFgNx (🐈🐈 🤵👰🏻 🇦🇹)
 
