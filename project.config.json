@@ -1,0 +1,7 @@
+{
+  "PORT": 8080,
+  "SOCKET_PORT": 3000,
+  "JWT_SECRET": "github-profile-chart",
+  "IS_STAR_REQUIRED": false,
+  "TOKEN": "yourgithubpersonalaccesstoken"
+}
