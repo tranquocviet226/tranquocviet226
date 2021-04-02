@@ -13,6 +13,6 @@
 [![ReactNative](https://img.shields.io/badge/reactnative-%233498DB.svg?&style=for-the-badge&logo=react&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/typeScript-%231DA1F2.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/nodejs-brightgreen?&style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Swift](https://img.shields.io/badge/swift-orange?&style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Swift](https://img.shields.io/badge/swift-orange?&style=for-the-badge&logo=swift&logoColor=white)]()
 
 
