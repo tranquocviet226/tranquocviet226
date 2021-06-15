@@ -31,6 +31,11 @@
 
 <a style="" href="https://techrum.org">https://techrum.org</a>
 
+|                       |                         | 
+|        :---:          |          :---:          |       
+| ![](./tech_img_1.png) | ![](./tech_img_2.png) | 
+
+
  ---
 
 ### Boy Scout Rule
