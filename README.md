@@ -44,8 +44,8 @@ I am interested in and talking about JavaScript, ReactJS, NestJS, and Software E
 <a href="https://github.com/tranquocviet226/techrum">
   <img alt="techrum.org" src="https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=techrum&show_owner=true" />
 </a>
-<a href="https://github.com/tranquocviet226/education-base">
-  <img alt="Education Nest JS base source" src="https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=education-base&show_owner=true" />
+<a href="https://github.com/tranquocviet226/education_base">
+  <img alt="Education Nest JS base source" src="https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=education_base&show_owner=true" />
 </a>
 <a href="https://github.com/tranquocviet226/coodynow">
   <img alt="Coodynow" src="https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=coodynow&show_owner=true" />
