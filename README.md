@@ -1,6 +1,7 @@
-<p align="center">
-  <img src='https://scontent-hkg4-1.xx.fbcdn.net/v/t1.6435-9/85082174_1242776175911116_7628715383532290048_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=e3f864&_nc_ohc=BTdo4-TobsIAX_EmjBA&_nc_ht=scontent-hkg4-1.xx&oh=9ce5e88b567e5fcca65b477e15185508&oe=60CC7995' width="100%" height="auto"'>
-</p>
+
+    
+ ![](./banner_profile.jpg) 
+
 
 ## A Developer (Android, iOS, Web, Server) <br> Currently learning management and working as a Javascript developer 
 
