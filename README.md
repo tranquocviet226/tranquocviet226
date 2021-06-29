@@ -41,7 +41,7 @@
 
 ### Boy Scout Rule
 
-I am interested in and talking about JavaScript, ReactJS, NestJS, and Software Engineering ♥️ 💕 
+Leave your code better than you found it.
 
  ---
                                                                           
