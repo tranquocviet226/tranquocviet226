@@ -17,6 +17,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
 [![TypeScript](https://img.shields.io/badge/typeScript-%231DA1F2.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Swift](https://img.shields.io/badge/swift-orange?&style=for-the-badge&logo=swift&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 
 <br/>
 
