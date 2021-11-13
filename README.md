@@ -31,7 +31,7 @@
 
 ### My Website
 
-<a style="" href="https://techrum.org">https://techrum.org</a>
+<a style="" href="https://techrum.org">https://varum.tech</a>
 
 |                       |                         | 
 |        :---:          |          :---:          |       
