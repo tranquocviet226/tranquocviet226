@@ -50,15 +50,21 @@ Leave your code better than you found it.
  
 ### Worke experience
 
- * 06/2020 - 10/2021: Vnext Software
+ * 06/2020 - 10/2021: **Vnext Software**
  * Skills: ReactJS, NodeJS (ExpressJs, NestJs), React Native, PHP.
 
     ---
 
- * 10/2021 - Now: Freelancer
+ * 10/2021 - 12/2021: **Freelancer**
  * Skills: ReactJS, NodeJS, React Native, NextJs.
 
  ---
+ 
+ * 12/2021 - Now: **CMC Global**
+ * Skills: ReactJS.
+
+ ---
+       
                                                                           
 ### More Repositories
 
