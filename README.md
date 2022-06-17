@@ -50,17 +50,22 @@ Leave your code better than you found it.
 ### Worke experience
 
  * 06/2020 - 10/2021: **Vnext Software**
- * Skills: ReactJS, NodeJS (ExpressJs, NestJs), React Native, PHP.
+ * Assigned to front end developer team to build web and mobile apps.
+ * Participated in designing API for applications.
+ * Leveraged knowledge in Javascript, Typescript, ReactJS, NodeJS (ExpressJs, NestJs), React Native, Git.
 
     ---
 
  * 10/2021 - 12/2021: **Freelancer**
- * Skills: ReactJS, NodeJS, React Native, NextJs.
+ * Assigned to front end developer team to build web and mobile apps.
+ * Skills: Javascript, TypeScript, ReactJS, React Native.
 
  ---
  
  * 12/2021 - Now: **CMC Global**
- * Skills: ReactJS.
+ * Assigned to ReactJS team to build a high-level UI library based on React JS and Material UI.
+ * Participated in development of components: GroupTable, HorizontalBarChart, WafermapPlot, ScatterChartPlot,...
+ * Leveraged knowledge in Javascript, ReactJS, Storybook, Git, Jira, Alige.
 
  ---
        
