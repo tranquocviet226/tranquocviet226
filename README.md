@@ -1,5 +1,5 @@
 
-## A Developer (Mobile, Web, Server) <br> Currently learning about problem solving skills and working as a Javascript developer 
+## A Javascript Developer (Mobile, Web, Server) <br> Currently learning about problem solving skills and working as a Javascript developer 
 
 ### Contact me
                   
