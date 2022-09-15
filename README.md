@@ -34,6 +34,8 @@
 
 <a style="" href="https://varum.tech">https://varum.tech</a>
 
+*Varum has now been updated to version 2*
+
 |                       |                         | 
 |        :---:          |          :---:          |       
 | ![](./Screen%20Shot%202021-12-02%20at%204.23.17%20PM.png) | ![](./Screen%20Shot%202021-12-02%20at%204.24.51%20PM.png) | 
