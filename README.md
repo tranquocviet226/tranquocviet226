@@ -38,7 +38,7 @@
 
 |                       |                         | 
 |        :---:          |          :---:          |       
-| ![](./Screen%20Shot%202021-12-02%20at%204.23.17%20PM.png) | ![](./Screen%20Shot%202021-12-02%20at%204.24.51%20PM.png) | 
+| ![image](https://user-images.githubusercontent.com/57559641/197096495-d902390b-149d-4902-8404-f4fdcbdd3634.png) | ![image](https://user-images.githubusercontent.com/57559641/197096690-ab4345a0-37a5-4c99-af55-3908691598a9.png)) | 
 
 
  ---
