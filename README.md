@@ -48,7 +48,7 @@ Leave your code better than you found it.
 
  ---
  
-### Worke experience
+### Work experience
 
  * 06/2020 - 10/2021: **Vnext Software**
  * Assigned to front end developer team to build web and mobile apps.
