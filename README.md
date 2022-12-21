@@ -34,12 +34,11 @@
 
 <a style="" href="https://ngontumathuat.com">https://ngontumathuat.com</a>
 
-*Varum has now been updated to version 2*
+*A forum to share knowledge about technology and foreign languages*
 
 |                       |                         | 
 |        :---:          |          :---:          |       
-| ![image](https://user-images.githubusercontent.com/57559641/197096495-d902390b-149d-4902-8404-f4fdcbdd3634.png) | ![image](https://user-images.githubusercontent.com/57559641/197096690-ab4345a0-37a5-4c99-af55-3908691598a9.png)) | 
-
+| ![image](https://user-images.githubusercontent.com/57559641/208808961-8d6c9d8b-65cd-402d-aae5-9f220e80350c.png) | ![image](https://user-images.githubusercontent.com/57559641/208808826-133cbe03-d29a-4c54-a3e9-e8ee58e11e29.png)|
 
  ---
 
@@ -64,12 +63,17 @@ Leave your code better than you found it.
 
  ---
  
- * 12/2021 - Now: **CMC Global**
+ * 12/2021 - 06/2022: **CMC Global**
  * Assigned to ReactJS team to build a high-level UI library based on React JS and Material UI.
  * Participated in development of components: GroupTable, HorizontalBarChart, WafermapPlot, ScatterChartPlot,...
  * Leveraged knowledge in Javascript, ReactJS, Storybook, Git, Jira, Alige.
 
  ---
+ 
+ * 06/2022 - Now: **Terralogic**
+ * Assigned to ReactJS team to build a HRMS system.
+ * Participated in development of modules: Onboarding, Offboarding, Timesheet, Timeoff, Ticket Management, Project Management, Customer Management, Resource Management, and integrate a simple social networks on the platform.
+ * Leveraged knowledge in Javascript, ReactJS, Antd.
        
                                                                           
 ### More Repositories
