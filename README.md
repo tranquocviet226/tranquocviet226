@@ -32,13 +32,11 @@
 
 ### My Website
 
-<a style="" href="https://ngontumathuat.com">https://ngontumathuat.com</a>
-
 *A forum to share knowledge about technology and foreign languages*
 
-|                       |                         | 
-|        :---:          |          :---:          |       
-| ![image](https://user-images.githubusercontent.com/57559641/208808961-8d6c9d8b-65cd-402d-aae5-9f220e80350c.png) | ![image](https://user-images.githubusercontent.com/57559641/208808826-133cbe03-d29a-4c54-a3e9-e8ee58e11e29.png)|
+|<a style="" target="_blank" href="https://tranquocviet226.github.io">Portfolio</a>|<a target="_blank" style="" href="https://ngontumathuat.com">Ngôn từ ma thuật</a>|
+|--|--|
+|![image](https://github.com/tranquocviet226/tranquocviet226.github.io/blob/main/assets/img/portfolio.png?raw=true)|![image](https://github.com/tranquocviet226/tranquocviet226.github.io/blob/main/assets/img/ngontumathuat.png?raw=true)|
 
  ---
 
@@ -74,37 +72,4 @@ Leave your code better than you found it.
  * Assigned to ReactJS team to build a HRMS system.
  * Participated in development of modules: Onboarding, Offboarding, Timesheet, Timeoff, Ticket Management, Project Management, Customer Management, Resource Management, and integrate a simple social networks on the platform.
  * Leveraged knowledge in Javascript, ReactJS, Antd.
-       
-                                                                          
-### More Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=varrum&theme=vue)](https://github.com/tranquocviet226/varrum)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=varrum-web-user&theme=vue)](https://github.com/tranquocviet226/varrum-web-user)
-
-<a href="https://github.com/tranquocviet226/techrum">
-  <img alt="techrum.org" src="https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=techrum&show_owner=true" />
-</a>
-<a href="https://github.com/tranquocviet226/education_base">
-  <img alt="Education Nest JS base source" src="https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=education_base&show_owner=true" />
-</a>
-<a href="https://github.com/tranquocviet226/coodynow">
-  <img alt="Coodynow" src="https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=coodynow&show_owner=true" />
-</a>
-<a href="https://github.com/tranquocviet226/coodynow_backend">
-  <img alt="CoodynowBackend" src="https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=coodynow_backend&show_owner=true" />
-</a>
-<a href="https://github.com/tranquocviet226/lus_ios">
-  <img alt="LusDating" src="https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=lus_ios&show_owner=true" />
-</a>
-<a href="https://github.com/tranquocviet226/SBStoreClient">
-  <img alt="SBStore" src="https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=SBStoreClient&show_owner=true" />
-</a>
-<a href="https://github.com/tranquocviet226/Shopping">
-  <img alt="Shopping" src="https://github-readme-stats.vercel.app/api/pin/?username=tranquocviet226&repo=Shopping&show_owner=true" />
-</a>
-<a href="https://github.com/VTNPlusD/uzi_shopping">
-  <img alt="uzi_shopping" src="https://github-readme-stats.vercel.app/api/pin/?username=VTNPlusD&repo=uzi_shopping&show_owner=true" />
-</a>
-
-
-
+      
