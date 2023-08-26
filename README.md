@@ -1,5 +1,5 @@
 
-## A Javascript Developer (Mobile, Web, Backend) <br> Currently learning about problem solving skills and working as a Javascript developer 
+## A Javascript Developer (Mobile, Web, Backend) <br> Currently learning about problem-solving skills and working as a Javascript developer 
 
 ### Contact me
                   
@@ -49,27 +49,28 @@ Leave your code better than you found it.
 ### Work experience
 
  * 06/2020 - 10/2021: **Vnext Software**
- * Assigned to front end developer team to build web and mobile apps.
+ * Assigned to the front-end developer team to build web and mobile apps.
  * Participated in designing API for applications.
  * Leveraged knowledge in Javascript, Typescript, ReactJS, NodeJS (ExpressJs, NestJs), React Native, Git.
 
     ---
 
  * 10/2021 - 12/2021: **Freelancer**
- * Assigned to front end developer team to build web and mobile apps.
+ * Assigned to the front-end developer team to build web and mobile apps.
  * Skills: Javascript, TypeScript, ReactJS, React Native.
 
  ---
  
  * 12/2021 - 06/2022: **CMC Global**
- * Assigned to ReactJS team to build a high-level UI library based on React JS and Material UI.
- * Participated in development of components: GroupTable, HorizontalBarChart, WafermapPlot, ScatterChartPlot,...
+ * Assigned to the ReactJS team to build a high-level UI library based on React JS and Material UI.
+ * Participated in the development of components: GroupTable, HorizontalBarChart, WafermapPlot, ScatterChartPlot,...
  * Leveraged knowledge in Javascript, ReactJS, Storybook, Git, Jira, Alige.
 
  ---
  
  * 06/2022 - Now: **Terralogic**
- * Assigned to ReactJS team to build a HRMS system.
- * Participated in development of modules: Onboarding, Offboarding, Timesheet, Timeoff, Ticket Management, Project Management, Customer Management, Resource Management, and integrate a simple social networks on the platform.
- * Leveraged knowledge in Javascript, ReactJS, Antd.
+ * Assigned to the ReactJS team to build an HRMS system.
+ * Participated in the development of modules: Onboarding, Offboarding, Timesheet, Timeoff, Ticket Management, Project Management, Customer Management, Expenso, and Resource Management, and integrated a simple social network on the platform.
+ * Apply the new technology to the project: Micro-frontend, build the UI library by myself.
+ * Leveraged knowledge in Typescript, Javascript, ReactJS, Antd, TailwindCss, Storybook, Redux Toolkit, Redux Toolkit Query, Redux-hook-form, yup,...
       
