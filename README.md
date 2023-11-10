@@ -1,5 +1,5 @@
 
-## A Javascript Developer (Mobile, Web, Backend) <br> Currently learning about problem-solving skills and working as a Javascript developer 
+## A Javascript Developer (Web, Backend, Mobile)
 
 ### Contact me
                   
@@ -64,13 +64,13 @@ Leave your code better than you found it.
  * 12/2021 - 06/2022: **CMC Global**
  * Assigned to the ReactJS team to build a high-level UI library based on React JS and Material UI.
  * Participated in the development of components: GroupTable, HorizontalBarChart, WafermapPlot, ScatterChartPlot,...
- * Leveraged knowledge in Javascript, ReactJS, Storybook, Git, Jira, Alige.
+ * Leveraged knowledge in Javascript, ReactJS, Storybook, Git, Jira, and Alige.
 
  ---
  
  * 06/2022 - Now: **Terralogic**
  * Assigned to the ReactJS team to build an HRMS system.
  * Participated in the development of modules: Onboarding, Offboarding, Timesheet, Timeoff, Ticket Management, Project Management, Customer Management, Expenso, and Resource Management, and integrated a simple social network on the platform.
- * Apply the new technology to the project: Micro-frontend, build the UI library by myself.
- * Leveraged knowledge in Typescript, Javascript, ReactJS, Antd, TailwindCss, Storybook, Redux Toolkit, Redux Toolkit Query, Redux-hook-form, yup,...
+ * Apply the new technology to the project: Micro-frontend, build the UI library by myself, publish the package to GitHub package.
+ * Leveraged knowledge in Typescript, Javascript, ReactJS, NextJS, Antd, TailwindCss, Storybook, Redux Toolkit, Redux Toolkit Query, Redux-hook-form, yup, I18Next,...
       
