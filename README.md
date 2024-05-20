@@ -1,5 +1,5 @@
 
-## Javascript software engineer
+## Javascript Software Engineer
 
 ### Contact me
                   
