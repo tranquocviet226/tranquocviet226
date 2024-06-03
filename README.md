@@ -59,20 +59,20 @@ Leave your code better than you found it.
  * Assigned to the front-end developer team to build web and mobile apps.
  * Skills: Javascript, TypeScript, ReactJS, React Native.
 
- ---
+   ---
  
  * 12/2021 - 06/2022: **CMC Global**
  * Leader of the React JS team to build a high-level UI library based on React JS and Material UI.
  * Participated in the development of components: GroupTable, HorizontalBarChart, WafermapPlot, ScatterChartPlot,...
  * Leveraged knowledge in Javascript, ReactJS, Storybook, Git, Jira, and Alige.
 
- ---
+   ---
  
  * 06/2022 - Now: **Terralogic**
  * Assigned to the ReactJS team to build an HRMS system.
  * Participated in the development of modules: Onboarding, Offboarding, Timesheet, Timeoff, Ticket Management, Project Management, Customer Management, Expenso, and Resource Management, and integrated a simple social network on the platform.
  * Apply the new technology to the project: Micro-frontend with Module Federation.
- * Building a UI library is Pax-UI based on Typescript, React and Tailwindcss and publish the package to GitHub package
+ * Building a UI library is Pax-UI based on Typescript, React, Tailwindcss and publish the package to GitHub package
  * Leveraged knowledge in Typescript, Javascript, ReactJS, NextJS, Antd, TailwindCss, Storybook, Redux Toolkit, Redux Toolkit Query, Redux-hook-form, yup, I18Next,...
 
       
