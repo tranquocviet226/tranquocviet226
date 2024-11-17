@@ -1,5 +1,5 @@
 
-## Javascript Software Engineer
+## Senior Software Engineer
 
 ### Contact me
                   
@@ -34,9 +34,9 @@
 
 |<a style="" target="_blank" href="https://tranquocviet226.github.io">Portfolio</a>|<a target="_blank" style="" href="https://ngontumathuat.com">Ngôn từ ma thuật</a>|
 |--|--|
-|![image](https://github.com/tranquocviet226/tranquocviet226.github.io/blob/main/assets/img/portfolio.png?raw=true) <br/> My Portfolio|![image](https://github.com/tranquocviet226/tranquocviet226.github.io/blob/main/assets/img/ngontumathuat.png?raw=true) <br/>*A forum to share knowledge about technology and foreign languages*|
-|<a style="font-weight: 700" target="_blank" href="https://corodomo.com">Corodomo</a>|
-|![image](https://corodomo.com/_next/image?url=%2Fassets%2Fimages%2Flanding_1.png&w=1920&q=75)<br/>Coodomo is an online community and platform designed specifically for people who are passionate about self-study and are constantly looking for ways to improve their learning performance.|
+|![image](https://github.com/tranquocviet226/tranquocviet226.github.io/blob/main/assets/img/portfolio.png?raw=true) <br/> My Portfolio|![image](https://github.com/tranquocviet226/tranquocviet226.github.io/blob/main/assets/img/ngontumathuat.png?raw=true) <br/>*A forum to share knowledge*|
+|<a style="font-weight: 700" target="_blank" href="https://corodomo.com">Corodomo</a>|<a style="font-weight: 700" target="_blank" href="https://corodomo.com">Varum Store</a>|
+|![image](https://corodomo.com/_next/image?url=%2Fassets%2Fimages%2Flanding_1.webp&w=3840&q=75)<br/>Corodomo is an innovative learning platform! an app designed to boost focus and productivity.|![image](https://corodomo.com/_next/image?url=%2Fassets%2Fimages%2Flanding_1.webp&w=3840&q=75)<br/>Innovative solutions for remote team collaboration and project management|
 
  ---
 
