@@ -35,8 +35,8 @@
 |<a style="" target="_blank" href="https://tranquocviet226.github.io">Portfolio</a>|<a target="_blank" style="" href="https://ngontumathuat.com">Ngôn từ ma thuật</a>|
 |--|--|
 |![image](https://github.com/tranquocviet226/tranquocviet226.github.io/blob/main/assets/img/portfolio.png?raw=true) <br/> My Portfolio|![image](https://github.com/tranquocviet226/tranquocviet226.github.io/blob/main/assets/img/ngontumathuat.png?raw=true) <br/>*A forum to share knowledge*|
-|<a style="font-weight: 700" target="_blank" href="https://corodomo.com">Corodomo</a>|<a style="font-weight: 700" target="_blank" href="https://corodomo.com">Varum Store</a>|
-|![image](https://corodomo.com/_next/image?url=%2Fassets%2Fimages%2Flanding_1.webp&w=3840&q=75)<br/>Corodomo is an innovative learning platform! an app designed to boost focus and productivity.|![image](https://corodomo.com/_next/image?url=%2Fassets%2Fimages%2Flanding_1.webp&w=3840&q=75)<br/>Innovative solutions for remote team collaboration and project management|
+|<a style="font-weight: 700" target="_blank" href="https://corodomo.com">Corodomo</a>|<a style="font-weight: 700" target="_blank" href="https://corodomo.com">Corodomo Project Management</a>|
+|![image](https://corodomo.com/_next/image?url=%2Fassets%2Fimages%2Flanding_1.webp&w=3840&q=75)<br/>Corodomo is an innovative learning platform! an app designed to boost focus and productivity.|![image](https://raw.githubusercontent.com/tranquocviet226/tranquocviet226/refs/heads/main/Screenshot%202024-11-17%20at%2009.46.02.jpeg)<br/>Innovative solutions for remote team collaboration and project management|
 
  ---
 
