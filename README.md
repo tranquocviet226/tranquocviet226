@@ -48,16 +48,11 @@ Leave your code better than you found it.
  
 ### Work experience
 
- * 06/2020 - 10/2021: **Vnext Software**
+ * 06/2020 - 12/2021: **Vnext Software**
  * Assigned to the front-end developer team to build web and mobile apps.
  * Participated in designing API for applications.
  * Leveraged knowledge in Javascript, Typescript, ReactJS, NodeJS (ExpressJs, NestJs), React Native, Git.
 
-    ---
-
- * 10/2021 - 12/2021: **Freelancer**
- * Assigned to the front-end developer team to build web and mobile apps.
- * Skills: Javascript, TypeScript, ReactJS, React Native.
 
    ---
  
